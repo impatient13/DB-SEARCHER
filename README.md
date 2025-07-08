@@ -25,6 +25,3 @@
 ├── start.bat
 ├── install.bat
 └── requirements.txt
-
----
-
